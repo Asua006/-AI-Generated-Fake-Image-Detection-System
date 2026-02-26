@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+dataset/
+dataset_split/
+
+# Outputs
+outputs/
+src/outputs/
+
+# Model files
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+src/__pycache__/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
