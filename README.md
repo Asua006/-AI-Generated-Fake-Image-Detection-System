@@ -10,7 +10,7 @@ A complete end-to-end deep learning system to detect AI-generated (fake) images 
 
 ## 🔗 Live Demo
 
-🌍 Try it here: [https://your-app-link.streamlit.app](http://172.25.251.235:8501/)
+🌍 Try it here:(http://172.25.251.235:8501/)
 
 ---
 
