@@ -172,7 +172,7 @@ python src/train.py
 
 Training time:
 - **GPU**: 30-60 minutes
-- **CPU**: 3-5 hours
+- **CPU**: 2-3 hours
 - **Google Colab (Free GPU)**: 45 minutes
 
 ### 4. Evaluate Model
@@ -190,8 +190,6 @@ streamlit run app/app.py
 Open browser at `http://localhost:8501`
 
 ---
-
-##  Usage
 
 ### Training
 
@@ -246,8 +244,6 @@ Features:
 
 ---
 
-## Model Architecture
-
 ### Base Model: EfficientNetB0
 
 ```
@@ -293,6 +289,10 @@ Image Size: 224×224
 
 ## Results
 
+
+<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/664a5302-4a57-47e0-917c-352a0bd5a213" />
+
+
 ### Expected Performance
 
 | Metric | Value |
@@ -314,7 +314,7 @@ Actual  Real    1400   100
 
 ### Training Time
 
-- **CPU**: 3-5 hours
+- **CPU**: 2-3 hours
 - **GPU (RTX 3060)**: 30-45 minutes
 - **Google Colab (Free T4)**: 45 minutes
 
@@ -331,12 +331,7 @@ The Streamlit web app provides an intuitive interface for testing images:
 3. **Confidence Score**: Visual confidence meter
 4. **Technical Details**: Raw scores and probabilities
 5. **Model Info**: Architecture and performance details
-
-### Screenshots
-
-![Web App Interface](outputs/plots/webapp_demo.png)
-
----
+6. 
 
 ## Troubleshooting
 
