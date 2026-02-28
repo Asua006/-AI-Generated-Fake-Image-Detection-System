@@ -8,6 +8,12 @@ A complete end-to-end deep learning system to detect AI-generated (fake) images 
 
 ---
 
+## 🔗 Live Demo
+
+🌍 Try it here: https://your-app-link.streamlit.app
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
