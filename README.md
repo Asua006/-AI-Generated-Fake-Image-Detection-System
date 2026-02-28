@@ -27,7 +27,6 @@ A complete end-to-end deep learning system to detect AI-generated (fake) images 
 - [Web Application](#web-application)
 - [Troubleshooting](#troubleshooting)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
