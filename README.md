@@ -48,7 +48,7 @@ With the rise of AI image generators, it's becoming increasingly difficult to di
 -  **Transfer Learning**: EfficientNetB0 with ImageNet weights
 -  **Two-Phase Training**: Classifier-only → Full fine-tuning
 -  **High Accuracy**: 90-95% test accuracy
--  **Fast Training**: 30-60 min on GPU, 3-5 hours on CPU
+-  **Fast Training**: 30-60 min on GPU, 2-3 hours on CPU
 -  **Web Interface**: Streamlit app for easy testing
 -  **Comprehensive Evaluation**: Confusion matrix, ROC curve, metrics
 -  **Single Image Prediction**: Command-line tool
