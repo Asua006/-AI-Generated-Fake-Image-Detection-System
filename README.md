@@ -333,7 +333,6 @@ The Streamlit web app provides an intuitive interface for testing images:
 3. **Confidence Score**: Visual confidence meter
 4. **Technical Details**: Raw scores and probabilities
 5. **Model Info**: Architecture and performance details
-6. 
 
 ## Troubleshooting
 
@@ -342,7 +341,7 @@ The Streamlit web app provides an intuitive interface for testing images:
 **Solution:**
 ```python
 # In config.py, reduce batch size
-BATCH_SIZE = 16  # or 8
+BATCH_SIZE = 16  # or 32 or 8
 ```
 
 ### Issue: ModuleNotFoundError
