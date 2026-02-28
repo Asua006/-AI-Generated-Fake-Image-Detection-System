@@ -289,8 +289,10 @@ Image Size: 224×224
 
 ## Results
 
+Confusion Matrix:
 
 <img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/664a5302-4a57-47e0-917c-352a0bd5a213" />
+
 
 
 ### Expected Performance
